@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FilipeDiasSet
-- 👀 I’m interested in JavaScript,C++ and Python
+- 👀 I’m interested in JavaScript, C++ and Python
 - 🌱 I’m currently learning HTML 5
 - 💞️ I’m looking to collaborate on BackEnd
 
