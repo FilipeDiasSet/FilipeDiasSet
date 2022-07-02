@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FilipeDiasSet
-- 👀 I’m interested in JavaScript, C++ and Python
-- 🌱 I’m currently learning HTML 5
-- 💞️ I’m looking to collaborate on BackEnd
+- 👀 I’m interested in JavaScript, CSS and HTML5
+- 🌱 I’m currently learning Origamid
+- 💞️ I’m looking to collaborate on FrontEnd
 
 <!---
 FilipeDiasSet/FilipeDiasSet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
